@@ -1,4 +1,4 @@
-# Epicollect5 Data Editor - using React and Redux 
+# GCP Field Photodocumentation Collector - Data Editor - using React and Redux 
 Forked from https://github.com/Aiky30/react-webpack-boilerplate
 
 ## Install
